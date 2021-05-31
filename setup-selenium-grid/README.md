@@ -1,4 +1,4 @@
-# CVN Tech blog
+# Set up Selenium GRID by Docker
 
 ## Installation
 This repo is tested on **Node v12.20.1**.  While earlier versions of nodejs may be compatible, they have not been tested or verified.
