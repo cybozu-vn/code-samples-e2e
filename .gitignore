@@ -1,13 +1,3 @@
 .idea
 .project
-*.swp
-*~
-Thumbs.db
-.DS_Store
-node_modules/
-npm-debug.log
-test_results.log
-test/*
-allure-report/*
-junit-results.html
 node_modules
