@@ -10,7 +10,7 @@ Please make sure that you have added `nodejs` to your `$PATH`
 ###JDK 1.8 or above
 It is optional.
 
-`JAVA` is require to start `Selenium Server`, nothing else. 
+`Java` is require to start `Selenium Server`, nothing else. 
 
 You can install from: https://www.oracle.com/java/technologies/downloads/
 
