@@ -1,13 +1,25 @@
-# WebdriverIO-v7 boilerplate code
-This boilerplate code is a simple demo about automation testing by WebdriverIO-v7. 
-## installation
+# WebdriverIO-v7 demo
+This is a simple automation testing demo by WebdriverIO-v7. 
+## Installation
 
 ###NodeJS v12 or above
-Please make sure you install NodeJS globally. 
-
 You can install from: https://nodejs.org/en/download/
 
+Please make sure that you have added `nodejs` to your `$PATH`
+
 ###JDK 1.8 or above
-## run sample test
+It is optional.
+
+`JAVA` is require to start `Selenium Server`, nothing else. 
+
+You can install from: https://www.oracle.com/java/technologies/downloads/
+
+Please make sure that you have added `JAVA` to your `$PATH`
+
+## Run sample test
+````
+cd webdriverio-demo
+npm install
 npx wdio run wdio.conf.js
+````
 
